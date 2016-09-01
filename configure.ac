@@ -176,4 +176,4 @@ AC_SUBST(STATIC)
 AC_CONFIG_FILES([Makefile])
 AC_OUTPUT
 
-echo -e "$FM\n"
+#echo -e "$FM\n"
